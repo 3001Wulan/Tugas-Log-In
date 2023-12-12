@@ -5,6 +5,7 @@ public class LoginProgram {
         Scanner scanner = new Scanner(System.in);
 
         // Login
+        System.out.println(" Selamat Datang di Ceria Mart");
         System.out.println("=== LOGIN ===");
         System.out.print("Username: ");
         String usernameInput = scanner.nextLine();
